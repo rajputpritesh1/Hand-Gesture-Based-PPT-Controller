@@ -13,5 +13,5 @@ This project allows you to control PowerPoint presentations using hand gestures 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rajputpritesh1/ppt_controller_gestures.git
-   cd ppt_controller_gestures
+   git clone https://github.com/rajputpritesh1/Hand-Gesture-Based-PPT-Controller.git
+   cd Hand-Gesture-Based-PPT-Controller
